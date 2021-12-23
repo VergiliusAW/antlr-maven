@@ -1,0 +1,8 @@
+VAR x, y, r;
+
+BEGIN
+    ? x;
+   y := 8;
+   r := 888;
+   if x = y then WRITE r
+END.
